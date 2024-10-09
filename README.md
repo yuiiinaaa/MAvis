@@ -1,6 +1,7 @@
 # MAvis Project
-This is semester project for DIS Copenhagen: Artificial Intelligence, heavily based on the MAvis tool, client, and level structures made by students attending the course 02285 Artificial Intelligence and Multi-Agent Systems at the Technical University of Denmark (DTU). https://github.com/MAvis-DTU/mavis
+This is a semester project for DIS Copenhagen: Artificial Intelligence, heavily based on the MAvis tool, client, and level structures made by students attending the course 02285 Artificial Intelligence and Multi-Agent Systems at the Technical University of Denmark (DTU). Link: https://github.com/MAvis-DTU/mavis
 
+Our version of the project implements different search algorithms and heuristics to compare and observe the behavior of autonomous robots in different hospital environments.
 
 # MAvis: How to use the Searchclient
 
