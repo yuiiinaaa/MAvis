@@ -1,4 +1,8 @@
-# MAvis: Searchclient
+# MAvis Project
+This is semester project for DIS Copenhagen: Artificial Intelligence, heavily based on the MAvis tool, client, and level structures made by students attending the course 02285 Artificial Intelligence and Multi-Agent Systems at the Technical University of Denmark (DTU). https://github.com/MAvis-DTU/mavis
+
+
+# MAvis: How to use the Searchclient
 
 This readme describes how to use the included Python search client with the server that is contained in `server.jar` in the `mavis-assignment` folder.
 
