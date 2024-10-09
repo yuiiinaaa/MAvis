@@ -82,7 +82,7 @@ def graph_search(
         # print("agents", currNode.agent_positions)
         # print("boxes", currNode.box_positions)
         if (goal_description.is_goal(currNode)):
-            print("goal", goal_description)
+            # print("goal", goal_description)
             # print("curr", currNode)
             print("Goal Reached! States generated: ", states_generated)
             # print(currNode.extract_plan())
